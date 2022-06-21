@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @serdarTKMM
-- 👀 I’m interested in blokchain
+- 👀 I’m interested in blockchain
 - 🌱 I’m currently learning cairo (starkware)
 
 <!---
